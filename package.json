@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "update:version": "lerna version --no-push"
+  },
+  "workspaces": [
+    "workspaces/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
