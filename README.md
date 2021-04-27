@@ -16,12 +16,8 @@ _Linux:_
 sudo apt-get install redis-server
 ```
 
-### We use [yarn](https://yarnpkg.com/) - [workspaces](https://classic.yarnpkg.com/en/docs/workspaces/) with [lerna](https://www.npmjs.com/package/lerna)
+### We use [yarn](https://yarnpkg.com/)
 
-
-```bash
-cd workspaces/api
-```
 
 ### COPY .env.example to .env
 
