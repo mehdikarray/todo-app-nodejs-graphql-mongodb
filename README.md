@@ -22,6 +22,12 @@ sudo apt-get install redis-server
 cp .env.example .env
 ```
 
+### Install dependencies
+
+```bash
+npm i
+```
+
 ### API Start
 
 ```bash
