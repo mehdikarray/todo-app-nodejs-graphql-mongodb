@@ -16,9 +16,6 @@ _Linux:_
 sudo apt-get install redis-server
 ```
 
-### We use [yarn](https://yarnpkg.com/)
-
-
 ### COPY .env.example to .env
 
 ```bash
